@@ -1,0 +1,177 @@
+{
+  "Sunday": {
+    "Breakfast": {
+      "Entrée": ["Scrambled Eggs"],
+      "Side": ["Hash Browns", "French Toast Sticks"],
+      "Protein": ["Sausage Patties"]
+    },
+    "Lunch": {
+      "Entrée 1": ["Tortellini with Beef Bolognese Sauce"],
+      "Entrée 2": ["Chicken Tenders"],
+      "Vegan Entrée": ["Pasta and Vegetable Primavera"],
+      "Vegetable": ["California Blend"],
+      "Side": ["French Fries"]
+    },
+    "Dinner": {
+      "Entrée 1": ["Mongolian Pork"],
+      "Entrée 2": ["Broccoli Beef"],
+      "Vegan Entrée": ["Orange Tofu and Vegetables"],
+      "Vegetable": ["Steamed Cauliflower"],
+      "Side": ["Brown Fried Rice"],
+      "Bread": ["Chef's Choice"]
+    },
+    "Dessert": {
+      "Specialty Dessert": ["Chef's Choice"]
+    }
+  },
+  "Monday": {
+    "Breakfast": {
+      "Entrée": ["Scrambled Eggs"],
+      "Side": ["Diced Potatoes", "Belgian Waffles"],
+      "Protein": ["Thick Cut Bacon"]
+    },
+    "Lunch": {
+      "Entrée 1": ["Ground Beef Tostada Bowl"],
+      "Entrée 2": ["Mini Chicken Taquitos"],
+      "Vegan Entrée": ["Beyond Meat Vegan Tostada Bowl"],
+      "Vegetable": ["Mexican Corn"],
+      "Side": ["Spanish Rice"]
+    },
+    "Dinner": {
+      "Entrée 1": ["Chicken Enchilada Suiza"],
+      "Entrée 2": ["Baked Cod with Chipotle Pesto Sauce"],
+      "Vegan Entrée": ["Baked Beyond Beef Rigatoni with Soy Cheese"],
+      "Vegetable": ["Steamed California Vegetable Blend"],
+      "Side": ["Scalloped Potatoes"],
+      "Bread": ["Chef's Choice"]
+    },
+    "Dessert": {
+      "Specialty Dessert": ["Chef's Choice"]
+    }
+  },
+  "Tuesday": {
+    "Breakfast": {
+      "Entrée": ["Scrambled Eggs"],
+      "Side": ["Potato Circles", "French Toast"],
+      "Protein": ["Sliced Ham"]
+    },
+    "Lunch": {
+      "Entrée 1": ["Lemon Rosemary Chicken Breast"],
+      "Entrée 2": ["Pepperoni French Bread Pizza"],
+      "Vegan Entrée": ["Tofu Cacciatore"],
+      "Vegetable": ["Sauteed Zucchini"],
+      "Side": ["Rice Pilaf"]
+    },
+    "Dinner": {
+      "Entrée 1": ["Pollo Asado"],
+      "Entrée 2": ["Chicken Tamales"],
+      "Vegan Entrée": ["Vegan Cheese and Refried Beans Quesadillas"],
+      "Vegetable": ["Squashed Medley"],
+      "Side": ["Garlic White Rice"],
+      "Bread": ["Chef's Choice"]
+    },
+    "Dessert": {
+      "Specialty Dessert": ["Chef's Choice"]
+    }
+  },
+  "Wednesday": {
+    "Breakfast": {
+      "Entrée": ["Scrambled Eggs"],
+      "Side": ["Potato Triangles", "Pancakes"],
+      "Protein": ["Breakfast Sausage Links"]
+    },
+    "Lunch": {
+      "Entrée 1": ["Grilled Chicken Breast with Teriyaki Sauce"],
+      "Entrée 2": ["Corn Dog"],
+      "Vegan Entrée": ["Vegan Green Bean Stir-Fry with Tofu"],
+      "Vegetable": ["Steamed Broccoli"],
+      "Side": ["Bacon Fried Rice"]
+    },
+    "Dinner": {
+      "Entrée 1": ["A1 Steak Bites"],
+      "Entrée 2": ["Grilled Chipotle Chicken"],
+      "Vegan Entrée": ["Portobello Steak Bites"],
+      "Vegetable": ["Pacific Blend Vegetables"],
+      "Side": ["Corn Au Gratin Potatoes"],
+      "Bread": ["Chef's Choice"]
+    },
+    "Dessert": {
+      "Specialty Dessert": ["Chef's Choice"]
+    }
+  },
+  "Thursday": {
+    "Breakfast": {
+      "Entrée": ["Scrambled Eggs"],
+      "Side": ["Tater Tots", "Biscuits and Gravy"],
+      "Protein": ["Thick Cut Bacon"]
+    },
+    "Lunch": {
+      "Entrée 1": ["Grilled Chicken Strips"],
+      "Entrée 2": ["Sausage Pizza Pocket"],
+      "Vegan Entrée": ["Eggplant and Tofu Stir-Fry"],
+      "Vegetable": ["Mediterranean Vegetable Blend"],
+      "Side": ["Creamy Pesto Alfredo Penne Pasta"]
+    },
+    "Dinner": {
+      "Entrée 1": ["Garlic Roasted Pork Loin"],
+      "Entrée 2": ["Thyme Baked Chicken"],
+      "Vegan Entrée": ["Beyond Beef Sloppy Joes"],
+      "Vegetable": ["Roasted Brown Sugar Carrots"],
+      "Side": ["Mashed Potatoes with Spinach"],
+      "Bread": ["Chef's Choice"]
+    },
+    "Dessert": {
+      "Specialty Dessert": ["Chef's Choice"]
+    }
+  },
+  "Friday": {
+    "Breakfast": {
+      "Entrée": ["Scrambled Eggs"],
+      "Side": ["Crispy Battered Potatoes", "French Toast Tornado"],
+      "Protein": ["Sliced Linguica Sausage"]
+    },
+    "Lunch": {
+      "Entrée 1": ["Shrimp Linguini Scampi"],
+      "Entrée 2": ["Boneless Wings"],
+      "Vegan Entrée": ["Vegan Beyond Tenders"],
+      "Vegetable": ["Sautéed Green Beans with Onions and Peppers"],
+      "Side": ["White Cheddar Maccaroni and Cheese"]
+    },
+    "Dinner": {
+      "Entrée 1": ["Kung Pao Chicken"],
+      "Entrée 2": ["Miso Honey Glazed Salmon"],
+      "Vegan Entrée": ["Mock Chicken Stir-Fry"],
+      "Vegetable": ["Steamed Broccoli"],
+      "Side": ["Jasmine Steamed Rice"],
+      "Bread": ["Chef's Choice"]
+    },
+    "Dessert": {
+      "Specialty Dessert": ["Chef's Choice"]
+    }
+  },
+  "Saturday": {
+    "Breakfast": {
+      "Entrée": ["Scrambled Eggs"],
+      "Side": ["Hash Brown Patties", "Sausage and Egg Biscuit Sandwich"],
+      "Protein": ["Sausage Patties"]
+    },
+    "Lunch": {
+      "Entrée 1": ["Mediterranean Chicken"],
+      "Entrée 2": ["Beef and Bean Burrito"],
+      "Vegan Entrée": ["Beyond Meat Stuffed Pepper"],
+      "Vegetable": ["Crispy Brussel Sprouts"],
+      "Side": ["Garlic and Herb Rice"]
+    },
+    "Dinner": {
+      "Entrée 1": ["Cheese Maniccotti with Marinara Sauce"],
+      "Entrée 2": ["Chicken Provolone"],
+      "Vegan Entrée": ["Kale and Beyond Sausage Pasta"],
+      "Vegetable": ["Charred Mixed Vegetable"],
+      "Side": ["Wild Garden Rice"],
+      "Bread": ["Chef's Choice"]
+    },
+    "Dessert": {
+      "Specialty Dessert": ["Chef's Choice"]
+    }
+  }
+}
